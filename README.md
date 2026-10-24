@@ -1,0 +1,1 @@
+percobaan menggunakan github untuk pembuatan sistem manajement inventaris toko sederhana bagian F3 transfer, FEFO.
